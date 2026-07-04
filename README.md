@@ -1,13 +1,17 @@
 ### Bozhidar — Principal Architect
 
-Carrier-grade **AI solution architecture** for enterprise telco — agentic AI, RAG, multi-agent systems, and the governance to run them responsibly. 20+ years in mission-critical mobile packet core, now applied to AI.
+Two decades of **carrier-grade, mission-critical architecture** — from telecom mobile packet core to AI. I design systems that inherit the availability, security, and disaster-recovery expectations of the networks they serve.
 
-- 🏗️ **What I do** — architect AI systems that inherit the availability, security, and DR expectations of the networks they serve
-- 🧭 **Where I'm headed** — sovereign & **air-gapped AI**: local LLMs, private clouds, and the ecosystem that delivers them where the cloud can't reach
-- 🤝 **How I multiply impact** — helping teams become **AI-first**, turning domain experts into builders
-- 📂 **Portfolio** — https://bozhidar-architecture.github.io/ai-architecture-portfolio/
-- 💼 **LinkedIn** — https://www.linkedin.com/in/bozhidar/
+#### 📂 Portfolios
+- **[AI Architecture →](https://bozhidar-architecture.github.io/ai-architecture-portfolio/)** — agentic AI, RAG, multi-agent systems, and the governance to run them responsibly; heading toward sovereign & air-gapped AI
 
-*Reference designs shown publicly are original, anonymised, and reflect general industry patterns.*
+#### What defines my work
+- **Carrier-grade by default** — five-nines thinking, zero-trust, DR-by-design
+- **AI-first enablement** — multiplying teams, not just shipping one solution
+- **Sovereign & air-gapped AI** — for regulated and critical-infrastructure environments
 
 **Certifications:** Microsoft Certified — Agentic AI Business Solutions Architect (AB-100) · Azure AI Engineer (AI-102) · Azure AI Fundamentals (AI-900)
+
+💼 **[LinkedIn](https://www.linkedin.com/in/bozhidar/)**
+
+*Reference designs shown publicly are original, anonymised, and reflect general industry patterns.*
