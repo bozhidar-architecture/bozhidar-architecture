@@ -15,3 +15,5 @@ Two decades of **carrier-grade, mission-critical architecture** — from telecom
 💼 **[LinkedIn](https://www.linkedin.com/in/bozhidar/)**
 
 *Views are my own and do not represent any employer or client. Reference designs shown publicly are original, anonymised, and reflect general industry patterns.*
+
+*Content © 2026 Bozhidar · licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).*
